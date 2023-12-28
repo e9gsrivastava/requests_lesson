@@ -26,4 +26,4 @@ def answer():
 
     return my_dict
 if __name__=='__main__':
-    print(answer())
+    print(answer('https://www.google.com/search?channel=fs&client=ubuntu&q=w3schools'))
